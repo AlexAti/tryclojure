@@ -5,6 +5,7 @@
                  [compojure "1.1.6"]
                  [ring-server "0.3.1"]
                  [commons-lang/commons-lang "2.5"]
+                 [org.clojure/core.logic "0.8.10"]
                  [clojail "1.0.6"]]
   :jvm-opts ["-Djava.security.policy=example.policy" "-Xmx80M"]
   :min-lein-version "2.0.0"
